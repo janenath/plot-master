@@ -174,7 +174,7 @@ export default class Plot extends Component {
 				</h3>
 				<form className="create-new-form" onSubmit={this.newPlot}>
 					<p>
-						Plots larger then 25ft in either dimension should be split up into
+						Plots larger than 25ft in either dimension should be split up into
 						two plots. eg. 30x15 can become two 15x15 plots.
 					</p>
 					<span>
